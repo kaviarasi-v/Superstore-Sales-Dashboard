@@ -15,3 +15,7 @@ This project features an interactive Excel dashboard built using the Superstore 
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
 - Slicers
+
+# 📷 Dashboard Preview
+![Dashboard Screenshot]
+(dashboard-preview.png)
